@@ -6,3 +6,5 @@ master1
 hi111
 
 after github
+
+after clone
